@@ -1,0 +1,7 @@
+{
+  "name": "MockExam OMR System",
+  "description": "Custom OMR answer sheet designer and scanner workflow for 11+ mock exams, supporting GL-style rectangular box marks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

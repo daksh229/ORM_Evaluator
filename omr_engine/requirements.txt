@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+opencv-python>=4.9
+numpy>=1.26
+pydantic>=2.5
+anthropic>=0.39
+reportlab>=4.1
+openpyxl>=3.1
