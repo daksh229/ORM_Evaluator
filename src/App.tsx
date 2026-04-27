@@ -430,10 +430,7 @@ export default function App() {
                 </div>
 
                 <div className="border border-[#141414] bg-white p-6">
-                  <p className="text-[10px] uppercase tracking-widest opacity-50 mb-4">
-                    Static A-E preview
-                  </p>
-                  <GLStyleSheetPreview />
+                  <GLStyleSheetPreview templateId={selectedTemplateId} />
                 </div>
 
                 <div className="border border-[#141414] bg-blue-50 p-4 text-[11px] leading-relaxed">

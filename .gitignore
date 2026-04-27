@@ -10,3 +10,4 @@ venv/
 __pycache__/
 data/
 omr_engine/templates/
+.claude
